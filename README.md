@@ -1,1 +1,3 @@
-# django-trello-stats
+# Django Trello Stats is now Djanban
+
+This project has been renamed. Visit is new repository, [Djanban](https://github.com/diegojromerolopez/djanban)
